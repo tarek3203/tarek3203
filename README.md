@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarek3203&label=Profile%20views&color=0e75b6&style=flat" alt="tarek3203" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tariqbinbashar" target="blank"><img src="https://img.shields.io/twitter/follow/tariqbinbashar?logo=twitter&style=for-the-badge" alt="tariqbinbashar" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/tariq-bin-bashar/" target="blank"><img src="https://img.shields.io/twitter/follow/tariqbinbashar?logo=twitter&style=for-the-badge" alt="tariqbinbashar" /></a> </p>
 
 - 🌱 I’m currently learning **AI**
 
